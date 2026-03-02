@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "629097268558",
+    "project_id": "socialconnect-a8f32",
+    "storage_bucket": "socialconnect-a8f32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629097268558:android:03ff9f84e6dc7acad94a1f",
+        "android_client_info": {
+          "package_name": "com.socialconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629097268558-2qmrngdbuntq95ecuqjgt08e46tac214.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialconnect",
+            "certificate_hash": "9e4b71568a3f90f0865102f77eca0553a52c177d"
+          }
+        },
+        {
+          "client_id": "629097268558-cb4l54q5uvhk402mh57ppcau2bk78oph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM-DJB3OBD_FOZ8Aw7A6ishlEvCIUjApw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629097268558-cb4l54q5uvhk402mh57ppcau2bk78oph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

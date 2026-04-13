@@ -62,8 +62,7 @@ export default function SignIn({ navigation }: Props) {
 
   const emailError = formik.touched.email && formik.errors.email;
   const passwordError = formik.touched.password && formik.errors.password;
-  console.log('hello world, delete me');
-
+  console.log('Testing First Commit');
   return (
     <View style={styles.root}>
       <TransparentStatusBar />
